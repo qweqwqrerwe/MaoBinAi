@@ -2,7 +2,7 @@
   <div class="chatHome">
     <div class="chatLeft" style="width:24%" v-show="showPersonList">
       <div class="title">
-        <h2>君尘陌AI聊天</h2>
+        <h2>茂彬AI聊天</h2>
       </div>
       <div class="online-person" style="margin-top: 5%;"> 
         <el-row :gutter="24">
