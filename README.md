@@ -1,4 +1,4 @@
-# Multi Model ChatGPT Web
+# Multi Model ChatGPT Web！！！！！！！！仅限于MaoBin Teams使用！！！！！！！
 声明：此项目只发布于 Github，基于 Apache2.0 协议，免费且作为开源学习使用。并且不会有任何形式的卖号、付费服务、卖key等行为。谨防受骗。
 项目使用Vue2进行开发，给大家提供一个好看的GPT壳子，有好的建议和bug欢迎大家提出来，星星超过1000个随机抽10个群聊活跃的用户送独有的openai key。
 
